@@ -1,6 +1,6 @@
 # AV2 - Projeto de Programação Funcional
 
-Este projeto, intitulado `AV2_JoaoMoreira`, foi desenvolvido para a avaliação AV2 de Programação Funcional na Unifor - Universidade de Fortaleza, explorando conceitos avançados de programação funcional, operações com banco de dados MySQL, e o desenvolvimento de uma aplicação Flask como um servidor para consultas SQL seguras.
+Este projeto, intitulado `AV2_JoaoMoreira`, foi desenvolvido para a avaliação AV2 de Programação Funcional na Unifor - Universidade de Fortaleza. Ele explora conceitos avançados de programação funcional, operações com banco de dados MySQL e o desenvolvimento de uma aplicação Flask como um servidor para consultas SQL seguras.
 
 ## Estrutura do Projeto
 
